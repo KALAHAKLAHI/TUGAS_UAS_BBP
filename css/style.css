@@ -1,0 +1,132 @@
+.warna1{
+    background-color: #22092C;
+
+}
+
+.warna2 {
+    background-color: #0F0F0F ;
+
+}
+
+.warna3 {
+    background-color: #4F4A45 ;
+
+}
+
+.warna4 {
+    background-color: #262A56 ;
+
+}
+
+.warna5 {
+    background-color: #363062 ;
+
+}
+
+.warna6{
+    background-color: #4307b1;
+
+}
+
+.banner {
+    height: 80vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../furina/focalors.jpg');
+}
+
+.highlighted-kategori {
+    height: 300px;
+}
+
+
+
+
+.kategori {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../kkk/7L4lVOzDAoDXqApLGnnT.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+
+.kategori-ikan-dilindungi{
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../image/1gVKWJPoHLrZihvHiwHs.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-dante{
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../kuk/camp.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-ikan{
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../kkk/7L4lVOzDAoDXqApLGnnT.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-ikanterbang{
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../image2/rRMOphU7SxXwuWjowtb3.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration {
+    text-decoration : none;
+    color : white;
+}
+
+.no-decoration:hover{
+    color : #363062;
+}
+
+.text-harga {
+    font-size: 20px;
+}
+
+.image-box{
+    height: 200px;
+}
+
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover ;
+    object-position: center;
+}
+
+.content-subscribe {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.content-subscribe a {
+    color: #fff;
+}
+
+.banner-produk {
+    height: 65vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../image/focalors.jpg');
+    background-position: 60% 40%;
+}
+
+.list-group a {
+    text-decoration: none;
+}
+
+.beli-btn {
+    margin-top: 10px; /* Sesuaikan nilai margin sesuai kebutuhan */
+    
+}
+
+.product-terkait-image{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.banner-2 {
+    height: 65vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../image/focalors.jpg');
+    background-position: 60% 40%;
+}
